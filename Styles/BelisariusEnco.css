@@ -17,7 +17,7 @@ p{
 }
 
 button{
-  width: 200px;
+  width: 260px;
   height: 50px;
   border: 0px;
   font-weight: bold;
@@ -37,17 +37,35 @@ button:hover{
   text-align: center;
 }
 
-.center {
+.pulkun-center {
   margin: auto;
   width: 530px;
-  height: 640px;
+  height: 700px;
   padding: 10px;
   border: 3px solid green
 }
 
-.buttons-div {
+.pulkun-buttons-div {
   margin: auto;
-  width: 200px;
-  height: 120px;
+  width: 530px;
+  height: 50px;
+  flex-direction: row;
+}
+
+.home-center {
+  margin: auto;
+  width: 530px;
+  height: 190px;
   padding: 10px;
+  border: 3px solid green
+}
+
+.home-buttons-div {
+  margin: auto;
+  width: 530px;
+  height: 120px;
+}
+
+.home-button {
+  width: 530px;
 }
