@@ -37,21 +37,6 @@ button:hover{
   text-align: center;
 }
 
-.pulkun-center {
-  margin: auto;
-  width: 530px;
-  height: 700px;
-  padding: 10px;
-  border: 3px solid green
-}
-
-.pulkun-buttons-div {
-  margin: auto;
-  width: 530px;
-  height: 50px;
-  flex-direction: row;
-}
-
 .home-center {
   margin: auto;
   width: 530px;
@@ -68,4 +53,34 @@ button:hover{
 
 .home-button {
   width: 530px;
+}
+
+.pulkun-center {
+  margin: auto;
+  width: 530px;
+  height: 700px;
+  padding: 10px;
+  border: 3px solid green
+}
+
+.pulkun-buttons-div {
+  margin: auto;
+  width: 530px;
+  height: 50px;
+  flex-direction: row;
+}
+
+.dios-center {
+  margin: auto;
+  width: 530px;
+  height: 640px;
+  padding: 10px;
+  border: 3px solid green
+}
+
+.dios-buttons-div {
+  margin: auto;
+  width: 530px;
+  height: 50px;
+  flex-direction: row;
 }
